@@ -8,6 +8,6 @@ int main(){
 		printf("\t#4.chmod                      	\n");
 		printf("\t#5.cat chmod                      \n");
 		printf("# # # # # # # # # # # # # # # # # #\n");
-		// menu();
+		menu();
 		return 0;
 }
