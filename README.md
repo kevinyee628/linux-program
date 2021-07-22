@@ -1,3 +1,3 @@
-# linux_program
+# linux-program
 Linux programming by C.
 New program.
